@@ -7,5 +7,4 @@ This project features an interactive Power BI dashboard analyzing Amazon sales d
 Sales Overview: Tracks revenue, order volume, and key sales metrics.
 
 Product Analysis: Identifies top-selling products and revenue drivers.
-
 Customer Insights: Analyzes customer demographics, purchase patterns, and satisfaction.
