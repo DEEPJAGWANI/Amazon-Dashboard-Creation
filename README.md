@@ -1,4 +1,4 @@
-**Amazon Sales Dashboard (Power BI)**
+<h6>**Amazon Sales Dashboard (Power BI)**</h6>
 
 **Description**
 This project features an interactive Power BI dashboard analyzing Amazon sales data, providing insights into sales trends, product performance, and customer behavior.
